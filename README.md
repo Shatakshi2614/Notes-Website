@@ -1,2 +1,3 @@
 # Notes-Website
-It is a note taking website. We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could. <img src="https://media3.giphy.com/media/bp0fLZr8kFz4Bm4kRV/giphy.gif?cid=790b76117b7230140dfbc620f561089ee536ad2d99068f5a&rid=giphy.gif&ct=g" width="120" align="right" height="120">
+It is a note taking website. We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could. 
+<img align="right" alt="Coding" width="90" height="90" align="center" src="https://i.makeagif.com/media/11-07-2014/FZzC7P.gif">
